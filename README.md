@@ -7,7 +7,6 @@
 
 - 🌱  **I’m currently expanding my knowledge in advanced full stack development techniques, focusing on creating efficient and scalable web applications. Additionally, I am honing my skills in competitive programming to improve problem-solving abilities and algorithmic thinking. My learning journey includes exploring new technologies and frameworks, staying updated with industry trends, and continuously improving my coding practices to build innovative digital solutions.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
